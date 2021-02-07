@@ -182,25 +182,9 @@ Follow The Steps Below!
 | info|✅|
 | ChatList|❌|
 
-
-## Note
-
-* Dont Forget Stars
-
-* |En| And You can add your own quotes
-* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
-
-
 ## Special Thanks
-
 * [Baileys](https://github.com/adiwajshing/baileys)
 * Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
 * [NURUTOMO](https://github.com/nurutomo)
 
 
-
-## Group
-
-* <a href="https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----

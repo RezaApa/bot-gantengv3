@@ -9,7 +9,7 @@ ${instagram}
 ${yt}
 
 \`\`\`GROUP OFFICIAL\`\`\`
-https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
+https://chat.whatsapp.com/JC6O4zLVkfx9aUcIDQAern
 
 
 \`\`\`HARAP BACA NOTE DIBAWAH SEBELUM\`\`\`
@@ -74,20 +74,20 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 ┴
 │➻ *${prefix}quotemaker tx/wtrmk/tema*
 │➻ *${prefix}nulis nama/kelas/text*
-│➻ *${prefix}croman FXC7 dan BOT*
-│➻ *${prefix}slide Fxc7 BOT WA*
+│➻ *${prefix}croman Reja dan BOT*
+│➻ *${prefix}slide Reja BOT WA*
 │
-│➻ *${prefix}tahta FXC7*
-│➻ *${prefix}cglass FXC7*
-│➻ *${prefix}cstyle FXC7*
-│➻ *${prefix}cgame FXC7*
-│➻ *${prefix}clove FXC7*
-│➻ *${prefix}cparty FXC7*
-│➻ *${prefix}csky FXC7*
+│➻ *${prefix}tahta Reja*
+│➻ *${prefix}cglass Reja*
+│➻ *${prefix}cstyle Reja*
+│➻ *${prefix}cgame Reja*
+│➻ *${prefix}clove Reja*
+│➻ *${prefix}cparty Reja*
+│➻ *${prefix}csky Reja*
 │➻ *${prefix}tts id Haii*
-│➻ *${prefix}ttp Fxc7*
-│➻ *${prefix}cballon Fxc7*
-│➻ *${prefix}cpaper Fxc7*
+│➻ *${prefix}ttp Reja*
+│➻ *${prefix}cballon Reja*
+│➻ *${prefix}cpaper Reja*
 │
 │➻ *${prefix}stiker*
 │➻ *${prefix}gifstiker*
@@ -323,6 +323,7 @@ https://chat.whatsapp.com/GHC5djoQJrcGBJFwYQuQoB
 │➲ *KEVIN DAVID*
 │➲ *MY TEAM FXC7 BOT*
 │➲ *CONTENT CREATOR BOT WHATSAPP*
+│➲ *CONTENT CREATOR BOT WHATSAPP*
 ┬
 ╰────────────────────────`
 }
@@ -345,8 +346,8 @@ const donasi = (name) => {
 	return `       
 ╭─────「 *DONASI SEIKHLASNYA* 」
 ┴
-│√ *PULSA: 08311800241*
-│√ *OVO : 08311800241*
+│√ *PULSA: 085878573894*
+│√ *DANA : 081297285516*
 ┬
 ╰──────「 *BY ${name}* 」
 

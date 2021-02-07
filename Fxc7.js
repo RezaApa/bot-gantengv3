@@ -72,11 +72,11 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=628311800241:+62 831-1800-241\n'
             + 'END:VCARD'
 
-prefix = "!"
-name = "~ F X C 7 | B O T"
-rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN FXC7BOT😁"
-rmenu = "HAI TEMEN FXC7BOT👋 JANGAN LUPA DONASI YAA:)"
-limitt = 10
+prefix = "."
+name = "~ B O T - G A N T E N G"
+rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI USER BOT-GANTENG"
+rmenu = "HAI TEMEN BOT-GANTENG👋 JANGAN LUPA DONASI YAA:)"
+limitt = 20
 ban = []
 
 function kyun(seconds){

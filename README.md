@@ -1,6 +1,6 @@
 ### 𝙃𝘼𝙇𝙊 𝘽𝙊𝙏-𝙂𝘼𝙉𝙏𝙀𝙉𝙂
 <p align="center">
-<img src="https://avatars.githubusercontent.com/u/78640518?s=460&u=b413da560ac2ca377551f47dbd943741438997e2&v=4" width="100px">
+<img src="https://avatars.githubusercontent.com/u/78640518?s=460&u=b413da560ac2ca377551f47dbd943741438997e2&v=4" width="2000px">
 
 </details>
 

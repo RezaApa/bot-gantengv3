@@ -72,7 +72,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'TEL;type=CELL;type=VOICE;waid=6281297285516:+6281297285516\n'
             + 'END:VCARD'
 
-prefix = "."
+prefix = "!"
 name = "~ B O T - G A N T E N G"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI USER BOT-GANTENG"
 rmenu = "HAI TEMEN BOT-GANTENG👋 JANGAN LUPA DONASI YAA:)"

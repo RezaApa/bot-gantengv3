@@ -1,31 +1,5 @@
 ### 𝙃𝘼𝙇𝙊 𝘽𝙊𝙏-𝙂𝘼𝙉𝙏𝙀𝙉𝙂 <br><img src="https://avatars.githubusercontent.com/u/78640518?s=460&u=b413da560ac2ca377551f47dbd943741438997e2&v=4" width="32px">
-<p align="center">
-<a href="https://github.com/RezaApa/"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
-</p>
-<br>
 
-
-
-<p align="center">
-<a href="#"><img title="termux-bot-wa" src="https://img.shields.io/badge/-TERMUX--BOT--WA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/Fxc7/termux-bot-wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxc7/termux-bot-wa?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
-
-</p>
-
-
-<details>
-
-
-
-* [Ovo](08311800241)
-* [Pulsa](08311800241)
 </details>
 
 ## Tools

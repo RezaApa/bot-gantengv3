@@ -1,6 +1,6 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### 𝙃𝘼𝙇𝙊 𝘽𝙊𝙏-𝙂𝘼𝙉𝙏𝙀𝙉𝙂 <br><img src="https://avatars.githubusercontent.com/u/78640518?s=460&u=b413da560ac2ca377551f47dbd943741438997e2&v=4" width="32px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/RezaApa/"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
 </p>
 <br>
 

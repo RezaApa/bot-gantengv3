@@ -76,7 +76,7 @@ prefix = "!"
 name = "~ B O T - G A N T E N G"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI USER BOT-GANTENG"
 rmenu = "HAI TEMEN BOT-GANTENG👋 JANGAN LUPA DONASI YAA:)"
-limit = 20
+limitt = 10
 ban = []
 
 function kyun(seconds){

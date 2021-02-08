@@ -46,7 +46,7 @@ const { BarBarApi, ZeksApi, TechApi, TobzApi, ItsApi, VthearApi } = JSON.parse(f
 const setting = JSON.parse(fs.readFileSync('./database/json/setting.json'))
 const welkom = JSON.parse(fs.readFileSync('./database/json/welkom.json'))
 const nsfw = JSON.parse(fs.readFileSync('./database/json/nsfw.json'))
-const _limit = JSON.parse(fs.readFileSync('./database/json/limit.json'))
+const limit = JSON.parse(fs.readFileSync('./database/json/limit.json'))
 const samih = JSON.parse(fs.readFileSync('./database/json/simi.json'))
 const user = JSON.parse(fs.readFileSync('./database/json/user.json'))
 const userpremium = JSON.parse(fs.readFileSync('./database/json/premium.json'))
@@ -76,7 +76,7 @@ prefix = "!"
 name = "~ B O T - G A N T E N G"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI USER BOT-GANTENG"
 rmenu = "HAI TEMEN BOT-GANTENG👋 JANGAN LUPA DONASI YAA:)"
-limitt = 20
+limit = 20
 ban = []
 
 function kyun(seconds){
@@ -200,7 +200,7 @@ async function starts() {
 			}
 
 			const botNumber = client.user.jid
-			const ownerNumber = ["628311800241@s.whatsapp.net"] // owner number ubah aja
+			const ownerNumber = ["6281297285516@s.whatsapp.net"] // owner number ubah aja
 			const isGroup = from.endsWith('@g.us')
 			const sender = isGroup ? mek.participant : mek.key.remoteJid
 			const groupMetadata = isGroup ? await client.groupMetadata(from) : ''
@@ -319,7 +319,7 @@ async function starts() {
 				break 
 		case 'daftar':
 					client.updatePresence(from, Presence.composing)
-					if (isUser) return reply('kamu sudah Menjadi Temen FXC7BOT:D')
+					if (isUser) return reply('kamu sudah Menjadi Temen BOT-GANTENG:D')
 					if (isBanned) return reply(mess.only.benned)
 					user.push(sender)
 					fs.writeFileSync('./database/json/user.json', JSON.stringify(user))

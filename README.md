@@ -21,7 +21,7 @@ Follow The Steps Below!
 > pkg update -y
 > pkg upgrade -y
 > pkg install git -y
-> git clone https://github.com/RezaApa/bot-gantengbot-gantengv2
+> git clone https://github.com/RezaApa/bot-gantengv2
 > cd bot-gantengv2
 > npm cache clear
 > bash install.sh
